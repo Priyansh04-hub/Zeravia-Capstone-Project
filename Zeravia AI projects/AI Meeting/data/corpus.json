@@ -1,0 +1,1252 @@
+{
+  "graine": 20260818,
+  "reunions": [
+    {
+      "id": "M1",
+      "societe": "Northgate Hardware",
+      "type": "weekly operations meeting",
+      "date": "2026-08-03",
+      "participants": [
+        "Rafael",
+        "Nadia",
+        "Colin",
+        "Padma"
+      ],
+      "repliques": [
+        {
+          "qui": "Rafael",
+          "texte": "Right, let us get started, I have a hard stop at eleven."
+        },
+        {
+          "qui": "Nadia",
+          "texte": "Two people are off next week, so we will be short handed."
+        },
+        {
+          "qui": "Rafael",
+          "texte": "I will update the pricing on the kiosk by Wednesday."
+        },
+        {
+          "qui": "Colin",
+          "texte": "I will take down the summer banner."
+        },
+        {
+          "qui": "Colin",
+          "texte": "Nadia, can you call the sign shop about the awning?"
+        },
+        {
+          "qui": "Nadia",
+          "texte": "Sure, that is mine."
+        },
+        {
+          "qui": "Nadia",
+          "texte": "Agreed, let us keep it short today."
+        },
+        {
+          "qui": "Padma",
+          "texte": "And the mailbox at the old address still has to be emptied, that one is still open."
+        },
+        {
+          "qui": "Colin",
+          "texte": "Should we put a neon sign in the window?"
+        },
+        {
+          "qui": "Padma",
+          "texte": "No, we already decided against it."
+        },
+        {
+          "qui": "Rafael",
+          "texte": "Footfall was flat, same as the week before."
+        },
+        {
+          "qui": "Nadia",
+          "texte": "I already reset the alarm codes last week, that one is closed."
+        },
+        {
+          "qui": "Nadia",
+          "texte": "Padma, please get the pergola quote moving."
+        },
+        {
+          "qui": "Padma",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Nadia",
+          "texte": "Actually, forget the pergola job, the landlord said no."
+        },
+        {
+          "qui": "Colin",
+          "texte": "Someone has to see to this: the gate keypad code has to be rotated."
+        },
+        {
+          "qui": "Colin",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Rafael",
+          "texte": "Fine, that is us then."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "kiosk",
+            "famille": "attribuee",
+            "quoi": "update the pricing on the kiosk",
+            "responsable": "Rafael",
+            "echeance": "Wednesday"
+          },
+          {
+            "code": "A2",
+            "ancre": "awning",
+            "famille": "attribuee",
+            "quoi": "call the sign shop about the awning",
+            "responsable": "Nadia",
+            "echeance": null
+          },
+          {
+            "code": "A3",
+            "ancre": "banner",
+            "famille": "attribuee",
+            "quoi": "take down the summer banner",
+            "responsable": "Colin",
+            "echeance": null
+          },
+          {
+            "code": "N1",
+            "ancre": "keypad",
+            "famille": "non-attribuee",
+            "quoi": "the gate keypad code has to be rotated",
+            "responsable": null,
+            "echeance": null
+          },
+          {
+            "code": "N2",
+            "ancre": "mailbox",
+            "famille": "non-attribuee",
+            "quoi": "the mailbox at the old address still has to be emptied",
+            "responsable": null,
+            "echeance": null
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "pergola",
+            "famille": "annulee",
+            "quoi": "get the pergola quote moving"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "neon",
+            "famille": "rejetee",
+            "quoi": "put a neon sign in the window"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "alarm",
+            "famille": "deja-faite",
+            "quoi": "reset the alarm codes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M2",
+      "societe": "Rivermill Bakery",
+      "type": "Monday stand-up",
+      "date": "2026-08-04",
+      "participants": [
+        "Nora",
+        "Elsa",
+        "Sami",
+        "Iris"
+      ],
+      "repliques": [
+        {
+          "qui": "Nora",
+          "texte": "Everyone here? Good."
+        },
+        {
+          "qui": "Elsa",
+          "texte": "Understood."
+        },
+        {
+          "qui": "Sami",
+          "texte": "Elsa, can you confirm the hydrant inspection date by the 25th?"
+        },
+        {
+          "qui": "Elsa",
+          "texte": "Sure, that is mine."
+        },
+        {
+          "qui": "Sami",
+          "texte": "I already paid the deposit for the trade stand last week, that one is closed."
+        },
+        {
+          "qui": "Elsa",
+          "texte": "Noted."
+        },
+        {
+          "qui": "Iris",
+          "texte": "Should we commission a mascot costume?"
+        },
+        {
+          "qui": "Nora",
+          "texte": "No, we already decided against it."
+        },
+        {
+          "qui": "Nora",
+          "texte": "And the wash bay hose has to be replaced before Friday, that one is still open."
+        },
+        {
+          "qui": "Iris",
+          "texte": "Footfall was flat, same as the week before."
+        },
+        {
+          "qui": "Sami",
+          "texte": "Nora, please swap the vending supplier."
+        },
+        {
+          "qui": "Nora",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Nora",
+          "texte": "Iris, can you close the payslips export by Thursday?"
+        },
+        {
+          "qui": "Iris",
+          "texte": "Yes, I will take that."
+        },
+        {
+          "qui": "Iris",
+          "texte": "Also, the shelf labels have to be reprinted by the promo start."
+        },
+        {
+          "qui": "Sami",
+          "texte": "Agreed, let us keep it short today."
+        },
+        {
+          "qui": "Sami",
+          "texte": "Actually, forget the vending job, their contract runs to December."
+        },
+        {
+          "qui": "Sami",
+          "texte": "I will measure the mezzanine for the new racking."
+        },
+        {
+          "qui": "Sami",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Nora",
+          "texte": "Same time next week."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "hydrant",
+            "famille": "attribuee",
+            "quoi": "confirm the hydrant inspection date",
+            "responsable": "Elsa",
+            "echeance": "the 25th"
+          },
+          {
+            "code": "A2",
+            "ancre": "mezzanine",
+            "famille": "attribuee",
+            "quoi": "measure the mezzanine for the new racking",
+            "responsable": "Sami",
+            "echeance": null
+          },
+          {
+            "code": "A3",
+            "ancre": "payslips",
+            "famille": "attribuee",
+            "quoi": "close the payslips export",
+            "responsable": "Iris",
+            "echeance": "Thursday"
+          },
+          {
+            "code": "N1",
+            "ancre": "labels",
+            "famille": "non-attribuee",
+            "quoi": "the shelf labels have to be reprinted",
+            "responsable": null,
+            "echeance": "by the promo start"
+          },
+          {
+            "code": "N2",
+            "ancre": "hose",
+            "famille": "non-attribuee",
+            "quoi": "the wash bay hose has to be replaced",
+            "responsable": null,
+            "echeance": "before Friday"
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "vending",
+            "famille": "annulee",
+            "quoi": "swap the vending supplier"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "mascot",
+            "famille": "rejetee",
+            "quoi": "commission a mascot costume"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "deposit",
+            "famille": "deja-faite",
+            "quoi": "paid the deposit for the trade stand"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M3",
+      "societe": "Castlebrook Dental",
+      "type": "practice meeting",
+      "date": "2026-08-05",
+      "participants": [
+        "Ines",
+        "Theo",
+        "Mei",
+        "Luis"
+      ],
+      "repliques": [
+        {
+          "qui": "Ines",
+          "texte": "Quick round on last week first."
+        },
+        {
+          "qui": "Theo",
+          "texte": "Sorry, I missed the start of that."
+        },
+        {
+          "qui": "Ines",
+          "texte": "Also, the extinguishers need their annual check in September."
+        },
+        {
+          "qui": "Mei",
+          "texte": "I will order a new shredder by next week."
+        },
+        {
+          "qui": "Mei",
+          "texte": "Noted."
+        },
+        {
+          "qui": "Ines",
+          "texte": "I will log a ticket for the turnstile fault."
+        },
+        {
+          "qui": "Luis",
+          "texte": "Theo, please order a recliner for reception."
+        },
+        {
+          "qui": "Theo",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Theo",
+          "texte": "Someone has to see to this: the parking signage needs repainting."
+        },
+        {
+          "qui": "Ines",
+          "texte": "Should we wrap the van in vinyl?"
+        },
+        {
+          "qui": "Theo",
+          "texte": "No, that is not happening."
+        },
+        {
+          "qui": "Ines",
+          "texte": "Luis, can you count the pallets that came back?"
+        },
+        {
+          "qui": "Luis",
+          "texte": "Okay, noted."
+        },
+        {
+          "qui": "Luis",
+          "texte": "Actually, forget the recliner job, the budget is frozen."
+        },
+        {
+          "qui": "Luis",
+          "texte": "I already moved the recycling bins last week, that one is closed."
+        },
+        {
+          "qui": "Mei",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Ines",
+          "texte": "Same time next week."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "shredder",
+            "famille": "attribuee",
+            "quoi": "order a new shredder",
+            "responsable": "Mei",
+            "echeance": "next week"
+          },
+          {
+            "code": "A2",
+            "ancre": "pallets",
+            "famille": "attribuee",
+            "quoi": "count the pallets that came back",
+            "responsable": "Luis",
+            "echeance": null
+          },
+          {
+            "code": "A3",
+            "ancre": "turnstile",
+            "famille": "attribuee",
+            "quoi": "log a ticket for the turnstile fault",
+            "responsable": "Ines",
+            "echeance": null
+          },
+          {
+            "code": "N1",
+            "ancre": "extinguishers",
+            "famille": "non-attribuee",
+            "quoi": "the extinguishers need their annual check",
+            "responsable": null,
+            "echeance": "in September"
+          },
+          {
+            "code": "N2",
+            "ancre": "signage",
+            "famille": "non-attribuee",
+            "quoi": "the parking signage needs repainting",
+            "responsable": null,
+            "echeance": null
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "recliner",
+            "famille": "annulee",
+            "quoi": "order a recliner for reception"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "vinyl",
+            "famille": "rejetee",
+            "quoi": "wrap the van in vinyl"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "recycling",
+            "famille": "deja-faite",
+            "quoi": "moved the recycling bins"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M4",
+      "societe": "Vantage Auto Body",
+      "type": "shop floor meeting",
+      "date": "2026-08-06",
+      "participants": [
+        "Omar",
+        "Yannick",
+        "Tomas",
+        "Karl"
+      ],
+      "repliques": [
+        {
+          "qui": "Omar",
+          "texte": "Right, let us get started, I have a hard stop at eleven."
+        },
+        {
+          "qui": "Yannick",
+          "texte": "Noted."
+        },
+        {
+          "qui": "Omar",
+          "texte": "Karl, can you schedule the gutters cleaning?"
+        },
+        {
+          "qui": "Karl",
+          "texte": "Okay, noted."
+        },
+        {
+          "qui": "Omar",
+          "texte": "The numbers look fine, nothing worth stopping on."
+        },
+        {
+          "qui": "Tomas",
+          "texte": "Also, the loading dock drain has to be unblocked before the rain."
+        },
+        {
+          "qui": "Tomas",
+          "texte": "Yannick, can you return the broken laminator by Friday afternoon?"
+        },
+        {
+          "qui": "Yannick",
+          "texte": "Okay, noted."
+        },
+        {
+          "qui": "Omar",
+          "texte": "I already ran the new ethernet cable last week, that one is closed."
+        },
+        {
+          "qui": "Omar",
+          "texte": "Two people are off next week, so we will be short handed."
+        },
+        {
+          "qui": "Yannick",
+          "texte": "Should we put an aquarium in the waiting area?"
+        },
+        {
+          "qui": "Tomas",
+          "texte": "No, we already decided against it."
+        },
+        {
+          "qui": "Omar",
+          "texte": "Tomas, please design the autumn flyer."
+        },
+        {
+          "qui": "Tomas",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Omar",
+          "texte": "Actually, forget the flyer job, we are not running the campaign."
+        },
+        {
+          "qui": "Yannick",
+          "texte": "Also, the carpet in the showroom needs cleaning."
+        },
+        {
+          "qui": "Omar",
+          "texte": "I will send the brochure proof to the printer."
+        },
+        {
+          "qui": "Tomas",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Omar",
+          "texte": "Fine, that is us then."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "gutters",
+            "famille": "attribuee",
+            "quoi": "schedule the gutters cleaning",
+            "responsable": "Karl",
+            "echeance": null
+          },
+          {
+            "code": "A2",
+            "ancre": "brochure",
+            "famille": "attribuee",
+            "quoi": "send the brochure proof to the printer",
+            "responsable": "Omar",
+            "echeance": null
+          },
+          {
+            "code": "A3",
+            "ancre": "laminator",
+            "famille": "attribuee",
+            "quoi": "return the broken laminator",
+            "responsable": "Yannick",
+            "echeance": "Friday afternoon"
+          },
+          {
+            "code": "N1",
+            "ancre": "carpet",
+            "famille": "non-attribuee",
+            "quoi": "the carpet in the showroom needs cleaning",
+            "responsable": null,
+            "echeance": null
+          },
+          {
+            "code": "N2",
+            "ancre": "drain",
+            "famille": "non-attribuee",
+            "quoi": "the loading dock drain has to be unblocked",
+            "responsable": null,
+            "echeance": "before the rain"
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "flyer",
+            "famille": "annulee",
+            "quoi": "design the autumn flyer"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "aquarium",
+            "famille": "rejetee",
+            "quoi": "put an aquarium in the waiting area"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "ethernet",
+            "famille": "deja-faite",
+            "quoi": "ran the new ethernet cable"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M5",
+      "societe": "Pinegrove Garden Centre",
+      "type": "operations review",
+      "date": "2026-08-07",
+      "participants": [
+        "Malik",
+        "Erik",
+        "Lena",
+        "Aisha"
+      ],
+      "repliques": [
+        {
+          "qui": "Malik",
+          "texte": "Everyone here? Good."
+        },
+        {
+          "qui": "Erik",
+          "texte": "Footfall was flat, same as the week before."
+        },
+        {
+          "qui": "Erik",
+          "texte": "Aisha, please fix the skirting in the corridor."
+        },
+        {
+          "qui": "Aisha",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Lena",
+          "texte": "Sorry, I missed the start of that."
+        },
+        {
+          "qui": "Malik",
+          "texte": "I will renegotiate the dumpster pickup schedule."
+        },
+        {
+          "qui": "Malik",
+          "texte": "Noted."
+        },
+        {
+          "qui": "Lena",
+          "texte": "Also, the ladder needs a safety tag this week."
+        },
+        {
+          "qui": "Erik",
+          "texte": "I already filed the permit renewal last week, that one is closed."
+        },
+        {
+          "qui": "Lena",
+          "texte": "Should we buy a drone for the yard photos?"
+        },
+        {
+          "qui": "Aisha",
+          "texte": "No, we already decided against it."
+        },
+        {
+          "qui": "Erik",
+          "texte": "Actually, forget the skirting job, the works are postponed."
+        },
+        {
+          "qui": "Aisha",
+          "texte": "And the generator has to be tested under load this month, that one is still open."
+        },
+        {
+          "qui": "Lena",
+          "texte": "I will test the handheld scanner firmware by Tuesday morning."
+        },
+        {
+          "qui": "Lena",
+          "texte": "The numbers look fine, nothing worth stopping on."
+        },
+        {
+          "qui": "Lena",
+          "texte": "Erik, can you redo the planogram for aisle four?"
+        },
+        {
+          "qui": "Erik",
+          "texte": "Yes, I will take that."
+        },
+        {
+          "qui": "Lena",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Malik",
+          "texte": "Same time next week."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "dumpster",
+            "famille": "attribuee",
+            "quoi": "renegotiate the dumpster pickup schedule",
+            "responsable": "Malik",
+            "echeance": null
+          },
+          {
+            "code": "A2",
+            "ancre": "planogram",
+            "famille": "attribuee",
+            "quoi": "redo the planogram for aisle four",
+            "responsable": "Erik",
+            "echeance": null
+          },
+          {
+            "code": "A3",
+            "ancre": "scanner",
+            "famille": "attribuee",
+            "quoi": "test the handheld scanner firmware",
+            "responsable": "Lena",
+            "echeance": "Tuesday morning"
+          },
+          {
+            "code": "N1",
+            "ancre": "ladder",
+            "famille": "non-attribuee",
+            "quoi": "the ladder needs a safety tag",
+            "responsable": null,
+            "echeance": "this week"
+          },
+          {
+            "code": "N2",
+            "ancre": "generator",
+            "famille": "non-attribuee",
+            "quoi": "the generator has to be tested under load",
+            "responsable": null,
+            "echeance": "this month"
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "skirting",
+            "famille": "annulee",
+            "quoi": "fix the skirting in the corridor"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "drone",
+            "famille": "rejetee",
+            "quoi": "buy a drone for the yard photos"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "permit",
+            "famille": "deja-faite",
+            "quoi": "filed the permit renewal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M6",
+      "societe": "Halden Print Works",
+      "type": "production meeting",
+      "date": "2026-08-08",
+      "participants": [
+        "Greta",
+        "Vera",
+        "Bruno",
+        "Ruth"
+      ],
+      "repliques": [
+        {
+          "qui": "Greta",
+          "texte": "Quick round on last week first."
+        },
+        {
+          "qui": "Vera",
+          "texte": "That is fair."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "Vera, can you replace the thermostat in the back office by Monday?"
+        },
+        {
+          "qui": "Vera",
+          "texte": "Yes, I will take that."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "Greta, please replace the intercom handset."
+        },
+        {
+          "qui": "Greta",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "The numbers look fine, nothing worth stopping on."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "I already swapped the van tyres last week, that one is closed."
+        },
+        {
+          "qui": "Ruth",
+          "texte": "And the dock curtain has to be replaced, that one is still open."
+        },
+        {
+          "qui": "Greta",
+          "texte": "Someone has to see to this: the firewall licence has to be renewed."
+        },
+        {
+          "qui": "Ruth",
+          "texte": "Understood."
+        },
+        {
+          "qui": "Greta",
+          "texte": "Ruth, can you get a quote for the skylight repair?"
+        },
+        {
+          "qui": "Ruth",
+          "texte": "Okay, noted."
+        },
+        {
+          "qui": "Vera",
+          "texte": "Footfall was flat, same as the week before."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "Actually, forget the intercom job, the fault cleared by itself."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "I will cancel the espresso lease by the end of the month."
+        },
+        {
+          "qui": "Ruth",
+          "texte": "Should we run a shuttle to the station?"
+        },
+        {
+          "qui": "Greta",
+          "texte": "No, not this quarter."
+        },
+        {
+          "qui": "Bruno",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Greta",
+          "texte": "Same time next week."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "thermostat",
+            "famille": "attribuee",
+            "quoi": "replace the thermostat in the back office",
+            "responsable": "Vera",
+            "echeance": "Monday"
+          },
+          {
+            "code": "A2",
+            "ancre": "espresso",
+            "famille": "attribuee",
+            "quoi": "cancel the espresso lease",
+            "responsable": "Bruno",
+            "echeance": "the end of the month"
+          },
+          {
+            "code": "A3",
+            "ancre": "skylight",
+            "famille": "attribuee",
+            "quoi": "get a quote for the skylight repair",
+            "responsable": "Ruth",
+            "echeance": null
+          },
+          {
+            "code": "N1",
+            "ancre": "curtain",
+            "famille": "non-attribuee",
+            "quoi": "the dock curtain has to be replaced",
+            "responsable": null,
+            "echeance": null
+          },
+          {
+            "code": "N2",
+            "ancre": "firewall",
+            "famille": "non-attribuee",
+            "quoi": "the firewall licence has to be renewed",
+            "responsable": null,
+            "echeance": null
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "intercom",
+            "famille": "annulee",
+            "quoi": "replace the intercom handset"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "shuttle",
+            "famille": "rejetee",
+            "quoi": "run a shuttle to the station"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "tyres",
+            "famille": "deja-faite",
+            "quoi": "swapped the van tyres"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M7",
+      "societe": "Corbin Freight",
+      "type": "depot meeting",
+      "date": "2026-08-09",
+      "participants": [
+        "Solene",
+        "Priya",
+        "Hugo",
+        "Dana"
+      ],
+      "repliques": [
+        {
+          "qui": "Solene",
+          "texte": "Right, let us get started, I have a hard stop at eleven."
+        },
+        {
+          "qui": "Priya",
+          "texte": "Footfall was flat, same as the week before."
+        },
+        {
+          "qui": "Priya",
+          "texte": "Someone has to see to this: the freezer needs a defrost cycle."
+        },
+        {
+          "qui": "Dana",
+          "texte": "Understood."
+        },
+        {
+          "qui": "Solene",
+          "texte": "I will get the compressor serviced by the 22nd."
+        },
+        {
+          "qui": "Dana",
+          "texte": "Two people are off next week, so we will be short handed."
+        },
+        {
+          "qui": "Solene",
+          "texte": "Should we start a podcast for the shop?"
+        },
+        {
+          "qui": "Priya",
+          "texte": "No, that is not happening."
+        },
+        {
+          "qui": "Dana",
+          "texte": "Priya, please get the carport resurfaced."
+        },
+        {
+          "qui": "Priya",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Solene",
+          "texte": "Dana, can you book the forklift inspection by Friday?"
+        },
+        {
+          "qui": "Dana",
+          "texte": "Sure, that is mine."
+        },
+        {
+          "qui": "Hugo",
+          "texte": "I will reassign the lockers keys."
+        },
+        {
+          "qui": "Dana",
+          "texte": "Actually, forget the carport job, it is not ours to resurface."
+        },
+        {
+          "qui": "Dana",
+          "texte": "I already installed the new blinds last week, that one is closed."
+        },
+        {
+          "qui": "Hugo",
+          "texte": "Noted."
+        },
+        {
+          "qui": "Solene",
+          "texte": "Also, the sprinkler certificate has to be renewed before the audit."
+        },
+        {
+          "qui": "Hugo",
+          "texte": "The numbers look fine, nothing worth stopping on."
+        },
+        {
+          "qui": "Hugo",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Solene",
+          "texte": "Fine, that is us then."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "lockers",
+            "famille": "attribuee",
+            "quoi": "reassign the lockers keys",
+            "responsable": "Hugo",
+            "echeance": null
+          },
+          {
+            "code": "A2",
+            "ancre": "forklift",
+            "famille": "attribuee",
+            "quoi": "book the forklift inspection",
+            "responsable": "Dana",
+            "echeance": "Friday"
+          },
+          {
+            "code": "A3",
+            "ancre": "compressor",
+            "famille": "attribuee",
+            "quoi": "get the compressor serviced",
+            "responsable": "Solene",
+            "echeance": "the 22nd"
+          },
+          {
+            "code": "N1",
+            "ancre": "sprinkler",
+            "famille": "non-attribuee",
+            "quoi": "the sprinkler certificate has to be renewed",
+            "responsable": null,
+            "echeance": "before the audit"
+          },
+          {
+            "code": "N2",
+            "ancre": "freezer",
+            "famille": "non-attribuee",
+            "quoi": "the freezer needs a defrost cycle",
+            "responsable": null,
+            "echeance": null
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "carport",
+            "famille": "annulee",
+            "quoi": "get the carport resurfaced"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "podcast",
+            "famille": "rejetee",
+            "quoi": "start a podcast for the shop"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "blinds",
+            "famille": "deja-faite",
+            "quoi": "installed the new blinds"
+          }
+        ]
+      }
+    },
+    {
+      "id": "M8",
+      "societe": "Sunfield Fitness",
+      "type": "club meeting",
+      "date": "2026-08-10",
+      "participants": [
+        "Farah",
+        "Marc",
+        "Nikolai",
+        "Janek"
+      ],
+      "repliques": [
+        {
+          "qui": "Farah",
+          "texte": "Everyone here? Good."
+        },
+        {
+          "qui": "Marc",
+          "texte": "That is fair."
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "Someone has to see to this: the router has to be put on a reboot schedule."
+        },
+        {
+          "qui": "Farah",
+          "texte": "Nikolai, please reprint the barcodes sheets."
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "Will do."
+        },
+        {
+          "qui": "Farah",
+          "texte": "Actually, forget the barcodes job, the old ones are fine."
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "The numbers look fine, nothing worth stopping on."
+        },
+        {
+          "qui": "Marc",
+          "texte": "Should we rent a billboard on the highway?"
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "No, that is not happening."
+        },
+        {
+          "qui": "Janek",
+          "texte": "Understood."
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "Marc, can you price the canopy replacement?"
+        },
+        {
+          "qui": "Marc",
+          "texte": "Yes, I will take that."
+        },
+        {
+          "qui": "Marc",
+          "texte": "Agreed, let us keep it short today."
+        },
+        {
+          "qui": "Farah",
+          "texte": "Janek, can you reorder the badges before we run out by next Tuesday?"
+        },
+        {
+          "qui": "Janek",
+          "texte": "Okay, noted."
+        },
+        {
+          "qui": "Farah",
+          "texte": "I will buy tarps for the outdoor stock by Saturday."
+        },
+        {
+          "qui": "Farah",
+          "texte": "Two people are off next week, so we will be short handed."
+        },
+        {
+          "qui": "Farah",
+          "texte": "I already returned the floor mats last week, that one is closed."
+        },
+        {
+          "qui": "Marc",
+          "texte": "Someone has to see to this: the yard floodlight has to be fixed before the clocks change."
+        },
+        {
+          "qui": "Nikolai",
+          "texte": "Anything else before we close?"
+        },
+        {
+          "qui": "Farah",
+          "texte": "Same time next week."
+        }
+      ],
+      "verite_terrain": {
+        "actions": [
+          {
+            "code": "A1",
+            "ancre": "badges",
+            "famille": "attribuee",
+            "quoi": "reorder the badges before we run out",
+            "responsable": "Janek",
+            "echeance": "next Tuesday"
+          },
+          {
+            "code": "A2",
+            "ancre": "tarps",
+            "famille": "attribuee",
+            "quoi": "buy tarps for the outdoor stock",
+            "responsable": "Farah",
+            "echeance": "Saturday"
+          },
+          {
+            "code": "A3",
+            "ancre": "canopy",
+            "famille": "attribuee",
+            "quoi": "price the canopy replacement",
+            "responsable": "Marc",
+            "echeance": null
+          },
+          {
+            "code": "N1",
+            "ancre": "floodlight",
+            "famille": "non-attribuee",
+            "quoi": "the yard floodlight has to be fixed",
+            "responsable": null,
+            "echeance": "before the clocks change"
+          },
+          {
+            "code": "N2",
+            "ancre": "router",
+            "famille": "non-attribuee",
+            "quoi": "the router has to be put on a reboot schedule",
+            "responsable": null,
+            "echeance": null
+          }
+        ],
+        "pieges": [
+          {
+            "code": "P-annulee",
+            "ancre": "barcodes",
+            "famille": "annulee",
+            "quoi": "reprint the barcodes sheets"
+          },
+          {
+            "code": "P-rejetee",
+            "ancre": "billboard",
+            "famille": "rejetee",
+            "quoi": "rent a billboard on the highway"
+          },
+          {
+            "code": "P-faite",
+            "ancre": "mats",
+            "famille": "deja-faite",
+            "quoi": "returned the floor mats"
+          }
+        ]
+      }
+    }
+  ],
+  "compte": {
+    "reunions": 8,
+    "actions_reelles": 40,
+    "actions_attribuees": 24,
+    "actions_non_attribuees": 16,
+    "pieges": 24
+  }
+}

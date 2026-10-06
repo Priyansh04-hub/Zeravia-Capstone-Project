@@ -1,0 +1,30 @@
+text,actual,predicted,confidence,manual_review
+The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,medium,0.8046375982986791,False
+The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,medium,0.8137272980926914,False
+The service provider shall follow normal scheduling and communication procedures. This provision concerns vendor management. No unusual exposure is identified.,low,low,0.8225953794165354,False
+The service provider must notify the customer of material operational changes. This provision concerns access control. Additional compliance review may be appropriate.,medium,medium,0.8096768771551417,False
+The agreement permits security controls to be bypassed when operationally convenient. This provision concerns access control. Manual compliance review is recommended before approval.,high,high,0.811083263598931,False
+The supplier shall provide routine status updates during the service period. This provision concerns financial compliance. No unusual exposure is identified.,low,low,0.8108665214609361,False
+Routine invoices shall be submitted according to the company s normal billing process. This provision concerns data privacy. No unusual exposure is identified.,low,low,0.7948001809020504,False
+The customer may request ordinary support during the subscription period. This provision concerns security. No unusual exposure is identified.,low,low,0.8106534476200332,False
+The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,high,0.816317387287214,False
+Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,low,0.8090381122023634,False
+The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,high,0.8141870875969364,False
+The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,medium,0.8171312540034535,False
+The department shall maintain standard records for routine business operations. This provision concerns access control. No unusual exposure is identified.,low,low,0.829245369234843,False
+The contract allows unrestricted access to financial records and confidential business information. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,high,0.799897137723532,False
+Records must be retained for the required period and made available for audit. This provision concerns records management. Additional compliance review may be appropriate.,medium,medium,0.7726383510818053,False
+The service provider shall follow normal scheduling and communication procedures. This provision concerns data privacy. No unusual exposure is identified.,low,low,0.8092066039070871,False
+Employees may access the internal portal for ordinary business activities. This provision concerns access control. No unusual exposure is identified.,low,low,0.7933067999823783,False
+The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,medium,0.8009939478131506,False
+The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,high,0.8215611174251275,False
+The supplier may access confidential customer information without prior approval. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,high,0.8197057684569738,False
+The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns records management. Additional compliance review may be appropriate.,medium,medium,0.8171437856968162,False
+The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,low,0.8136690235721373,False
+Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,medium,0.7744077556514561,False
+Records must be retained for the required period and made available for audit. This provision concerns access control. Additional compliance review may be appropriate.,medium,medium,0.7677519470903011,False
+Routine invoices shall be submitted according to the company s normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,low,0.8078465752535857,False
+The company may disclose regulated information without obtaining the required authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,high,0.8312291523188999,False
+The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,high,0.7940659991975693,False
+The organization may process personal information without documented consent or legal authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,high,0.8219786046702481,False
+The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns access control. Manual compliance review is recommended before approval.,high,high,0.7826414983441017,False

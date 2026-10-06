@@ -1,0 +1,55 @@
+meeting_id,task,owner,deadline,status,confidence,evidence,warnings
+1,"Two people are off next week, so we will be short handed.",,,pending,0.75,"Two people are off next week, so we will be short handed.","['Missing owner', 'Missing deadline']"
+1,I will update the pricing on the kiosk by Wednesday.,,by Wednesday,pending,0.9,I will update the pricing on the kiosk by Wednesday.,['Missing owner']
+1,I will take down the summer banner.,,,pending,0.75,I will take down the summer banner.,"['Missing owner', 'Missing deadline']"
+1,"Nadia, can you call the sign shop about the awning?",Nadia,,pending,0.9,"Nadia, can you call the sign shop about the awning?",['Missing deadline']
+1,"And the mailbox at the old address still has to be emptied, that one is still open.",,,pending,0.75,"And the mailbox at the old address still has to be emptied, that one is still open.","['Missing owner', 'Missing deadline']"
+1,"Padma, please get the pergola quote moving.",Padma,,pending,0.9,"Padma, please get the pergola quote moving.",['Missing deadline']
+1,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+1,Someone has to see to this: the gate keypad code has to be rotated.,,,pending,0.75,Someone has to see to this: the gate keypad code has to be rotated.,"['Missing owner', 'Missing deadline']"
+2,"And the wash bay hose has to be replaced before Friday, that one is still open.",,,pending,0.75,"And the wash bay hose has to be replaced before Friday, that one is still open.","['Missing owner', 'Missing deadline']"
+2,"Nora, please swap the vending supplier.",Nora,,pending,0.9,"Nora, please swap the vending supplier.",['Missing deadline']
+2,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+2,"Iris, can you close the payslips export by Thursday?",Iris,by Thursday,pending,1.0,"Iris, can you close the payslips export by Thursday?",[]
+2,"Yes, I will take that.",Yes,,pending,0.9,"Yes, I will take that.",['Missing deadline']
+2,"Also, the shelf labels have to be reprinted by the promo start.",Also,,pending,0.9,"Also, the shelf labels have to be reprinted by the promo start.",['Missing deadline']
+2,I will measure the mezzanine for the new racking.,,,pending,0.75,I will measure the mezzanine for the new racking.,"['Missing owner', 'Missing deadline']"
+3,I will order a new shredder by next week.,,by next week,pending,0.9,I will order a new shredder by next week.,['Missing owner']
+3,I will log a ticket for the turnstile fault.,,,pending,0.75,I will log a ticket for the turnstile fault.,"['Missing owner', 'Missing deadline']"
+3,"Theo, please order a recliner for reception.",Theo,,pending,0.9,"Theo, please order a recliner for reception.",['Missing deadline']
+3,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+3,Someone has to see to this: the parking signage needs repainting.,,,pending,0.75,Someone has to see to this: the parking signage needs repainting.,"['Missing owner', 'Missing deadline']"
+4,"Also, the loading dock drain has to be unblocked before the rain.",Also,,pending,0.9,"Also, the loading dock drain has to be unblocked before the rain.",['Missing deadline']
+4,"Yannick, can you return the broken laminator by Friday afternoon?",Yannick,by Friday,pending,1.0,"Yannick, can you return the broken laminator by Friday afternoon?",[]
+4,"Two people are off next week, so we will be short handed.",,,pending,0.75,"Two people are off next week, so we will be short handed.","['Missing owner', 'Missing deadline']"
+4,"Tomas, please design the autumn flyer.",Tomas,,pending,0.9,"Tomas, please design the autumn flyer.",['Missing deadline']
+4,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+4,I will send the brochure proof to the printer.,,,pending,0.75,I will send the brochure proof to the printer.,"['Missing owner', 'Missing deadline']"
+5,"Aisha, please fix the skirting in the corridor.",Aisha,,pending,0.9,"Aisha, please fix the skirting in the corridor.",['Missing deadline']
+5,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+5,I will renegotiate the dumpster pickup schedule.,,,pending,0.75,I will renegotiate the dumpster pickup schedule.,"['Missing owner', 'Missing deadline']"
+5,"And the generator has to be tested under load this month, that one is still open.",,,pending,0.75,"And the generator has to be tested under load this month, that one is still open.","['Missing owner', 'Missing deadline']"
+5,I will test the handheld scanner firmware by Tuesday morning.,,by Tuesday,pending,0.9,I will test the handheld scanner firmware by Tuesday morning.,['Missing owner']
+5,"Yes, I will take that.",Yes,,pending,0.9,"Yes, I will take that.",['Missing deadline']
+6,"Vera, can you replace the thermostat in the back office by Monday?",Vera,by Monday,pending,1.0,"Vera, can you replace the thermostat in the back office by Monday?",[]
+6,"Yes, I will take that.",Yes,,pending,0.9,"Yes, I will take that.",['Missing deadline']
+6,"Greta, please replace the intercom handset.",Greta,,pending,0.9,"Greta, please replace the intercom handset.",['Missing deadline']
+6,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+6,"And the dock curtain has to be replaced, that one is still open.",,,pending,0.75,"And the dock curtain has to be replaced, that one is still open.","['Missing owner', 'Missing deadline']"
+6,Someone has to see to this: the firewall licence has to be renewed.,,,pending,0.75,Someone has to see to this: the firewall licence has to be renewed.,"['Missing owner', 'Missing deadline']"
+6,I will cancel the espresso lease by the end of the month.,,,pending,0.75,I will cancel the espresso lease by the end of the month.,"['Missing owner', 'Missing deadline']"
+7,Someone has to see to this: the freezer needs a defrost cycle.,,,pending,0.75,Someone has to see to this: the freezer needs a defrost cycle.,"['Missing owner', 'Missing deadline']"
+7,I will get the compressor serviced by the 22nd.,,,pending,0.75,I will get the compressor serviced by the 22nd.,"['Missing owner', 'Missing deadline']"
+7,"Two people are off next week, so we will be short handed.",,,pending,0.75,"Two people are off next week, so we will be short handed.","['Missing owner', 'Missing deadline']"
+7,"Priya, please get the carport resurfaced.",Priya,,pending,0.9,"Priya, please get the carport resurfaced.",['Missing deadline']
+7,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+7,"Dana, can you book the forklift inspection by Friday?",Dana,by Friday,pending,1.0,"Dana, can you book the forklift inspection by Friday?",[]
+7,I will reassign the lockers keys.,,,pending,0.75,I will reassign the lockers keys.,"['Missing owner', 'Missing deadline']"
+7,"Also, the sprinkler certificate has to be renewed before the audit.",Also,,pending,0.9,"Also, the sprinkler certificate has to be renewed before the audit.",['Missing deadline']
+8,Someone has to see to this: the router has to be put on a reboot schedule.,,,pending,0.75,Someone has to see to this: the router has to be put on a reboot schedule.,"['Missing owner', 'Missing deadline']"
+8,"Nikolai, please reprint the barcodes sheets.",Nikolai,,pending,0.9,"Nikolai, please reprint the barcodes sheets.",['Missing deadline']
+8,Will do.,,,pending,0.75,Will do.,"['Missing owner', 'Missing deadline']"
+8,"Yes, I will take that.",Yes,,pending,0.9,"Yes, I will take that.",['Missing deadline']
+8,I will buy tarps for the outdoor stock by Saturday.,,by Saturday,pending,0.9,I will buy tarps for the outdoor stock by Saturday.,['Missing owner']
+8,"Two people are off next week, so we will be short handed.",,,pending,0.75,"Two people are off next week, so we will be short handed.","['Missing owner', 'Missing deadline']"
+8,Someone has to see to this: the yard floodlight has to be fixed before the clocks change.,,,pending,0.75,Someone has to see to this: the yard floodlight has to be fixed before the clocks change.,"['Missing owner', 'Missing deadline']"

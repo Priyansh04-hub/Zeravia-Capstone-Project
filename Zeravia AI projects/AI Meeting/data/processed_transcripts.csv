@@ -1,0 +1,158 @@
+meeting_id,reply_id,sentence_id,sentence
+1,1,1,"Right, let us get started, I have a hard stop at eleven."
+1,2,1,"Two people are off next week, so we will be short handed."
+1,3,1,I will update the pricing on the kiosk by Wednesday.
+1,4,1,I will take down the summer banner.
+1,5,1,"Nadia, can you call the sign shop about the awning?"
+1,6,1,"Sure, that is mine."
+1,7,1,"Agreed, let us keep it short today."
+1,8,1,"And the mailbox at the old address still has to be emptied, that one is still open."
+1,9,1,Should we put a neon sign in the window?
+1,10,1,"No, we already decided against it."
+1,11,1,"Footfall was flat, same as the week before."
+1,12,1,"I already reset the alarm codes last week, that one is closed."
+1,13,1,"Padma, please get the pergola quote moving."
+1,14,1,Will do.
+1,15,1,"Actually, forget the pergola job, the landlord said no."
+1,16,1,Someone has to see to this: the gate keypad code has to be rotated.
+1,17,1,Anything else before we close?
+1,18,1,"Fine, that is us then."
+2,1,1,Everyone here?
+2,1,2,Good.
+2,2,1,Understood.
+2,3,1,"Elsa, can you confirm the hydrant inspection date by the 25th?"
+2,4,1,"Sure, that is mine."
+2,5,1,"I already paid the deposit for the trade stand last week, that one is closed."
+2,6,1,Noted.
+2,7,1,Should we commission a mascot costume?
+2,8,1,"No, we already decided against it."
+2,9,1,"And the wash bay hose has to be replaced before Friday, that one is still open."
+2,10,1,"Footfall was flat, same as the week before."
+2,11,1,"Nora, please swap the vending supplier."
+2,12,1,Will do.
+2,13,1,"Iris, can you close the payslips export by Thursday?"
+2,14,1,"Yes, I will take that."
+2,15,1,"Also, the shelf labels have to be reprinted by the promo start."
+2,16,1,"Agreed, let us keep it short today."
+2,17,1,"Actually, forget the vending job, their contract runs to December."
+2,18,1,I will measure the mezzanine for the new racking.
+2,19,1,Anything else before we close?
+2,20,1,Same time next week.
+3,1,1,Quick round on last week first.
+3,2,1,"Sorry, I missed the start of that."
+3,3,1,"Also, the extinguishers need their annual check in September."
+3,4,1,I will order a new shredder by next week.
+3,5,1,Noted.
+3,6,1,I will log a ticket for the turnstile fault.
+3,7,1,"Theo, please order a recliner for reception."
+3,8,1,Will do.
+3,9,1,Someone has to see to this: the parking signage needs repainting.
+3,10,1,Should we wrap the van in vinyl?
+3,11,1,"No, that is not happening."
+3,12,1,"Luis, can you count the pallets that came back?"
+3,13,1,"Okay, noted."
+3,14,1,"Actually, forget the recliner job, the budget is frozen."
+3,15,1,"I already moved the recycling bins last week, that one is closed."
+3,16,1,Anything else before we close?
+3,17,1,Same time next week.
+4,1,1,"Right, let us get started, I have a hard stop at eleven."
+4,2,1,Noted.
+4,3,1,"Karl, can you schedule the gutters cleaning?"
+4,4,1,"Okay, noted."
+4,5,1,"The numbers look fine, nothing worth stopping on."
+4,6,1,"Also, the loading dock drain has to be unblocked before the rain."
+4,7,1,"Yannick, can you return the broken laminator by Friday afternoon?"
+4,8,1,"Okay, noted."
+4,9,1,"I already ran the new ethernet cable last week, that one is closed."
+4,10,1,"Two people are off next week, so we will be short handed."
+4,11,1,Should we put an aquarium in the waiting area?
+4,12,1,"No, we already decided against it."
+4,13,1,"Tomas, please design the autumn flyer."
+4,14,1,Will do.
+4,15,1,"Actually, forget the flyer job, we are not running the campaign."
+4,16,1,"Also, the carpet in the showroom needs cleaning."
+4,17,1,I will send the brochure proof to the printer.
+4,18,1,Anything else before we close?
+4,19,1,"Fine, that is us then."
+5,1,1,Everyone here?
+5,1,2,Good.
+5,2,1,"Footfall was flat, same as the week before."
+5,3,1,"Aisha, please fix the skirting in the corridor."
+5,4,1,Will do.
+5,5,1,"Sorry, I missed the start of that."
+5,6,1,I will renegotiate the dumpster pickup schedule.
+5,7,1,Noted.
+5,8,1,"Also, the ladder needs a safety tag this week."
+5,9,1,"I already filed the permit renewal last week, that one is closed."
+5,10,1,Should we buy a drone for the yard photos?
+5,11,1,"No, we already decided against it."
+5,12,1,"Actually, forget the skirting job, the works are postponed."
+5,13,1,"And the generator has to be tested under load this month, that one is still open."
+5,14,1,I will test the handheld scanner firmware by Tuesday morning.
+5,15,1,"The numbers look fine, nothing worth stopping on."
+5,16,1,"Erik, can you redo the planogram for aisle four?"
+5,17,1,"Yes, I will take that."
+5,18,1,Anything else before we close?
+5,19,1,Same time next week.
+6,1,1,Quick round on last week first.
+6,2,1,That is fair.
+6,3,1,"Vera, can you replace the thermostat in the back office by Monday?"
+6,4,1,"Yes, I will take that."
+6,5,1,"Greta, please replace the intercom handset."
+6,6,1,Will do.
+6,7,1,"The numbers look fine, nothing worth stopping on."
+6,8,1,"I already swapped the van tyres last week, that one is closed."
+6,9,1,"And the dock curtain has to be replaced, that one is still open."
+6,10,1,Someone has to see to this: the firewall licence has to be renewed.
+6,11,1,Understood.
+6,12,1,"Ruth, can you get a quote for the skylight repair?"
+6,13,1,"Okay, noted."
+6,14,1,"Footfall was flat, same as the week before."
+6,15,1,"Actually, forget the intercom job, the fault cleared by itself."
+6,16,1,I will cancel the espresso lease by the end of the month.
+6,17,1,Should we run a shuttle to the station?
+6,18,1,"No, not this quarter."
+6,19,1,Anything else before we close?
+6,20,1,Same time next week.
+7,1,1,"Right, let us get started, I have a hard stop at eleven."
+7,2,1,"Footfall was flat, same as the week before."
+7,3,1,Someone has to see to this: the freezer needs a defrost cycle.
+7,4,1,Understood.
+7,5,1,I will get the compressor serviced by the 22nd.
+7,6,1,"Two people are off next week, so we will be short handed."
+7,7,1,Should we start a podcast for the shop?
+7,8,1,"No, that is not happening."
+7,9,1,"Priya, please get the carport resurfaced."
+7,10,1,Will do.
+7,11,1,"Dana, can you book the forklift inspection by Friday?"
+7,12,1,"Sure, that is mine."
+7,13,1,I will reassign the lockers keys.
+7,14,1,"Actually, forget the carport job, it is not ours to resurface."
+7,15,1,"I already installed the new blinds last week, that one is closed."
+7,16,1,Noted.
+7,17,1,"Also, the sprinkler certificate has to be renewed before the audit."
+7,18,1,"The numbers look fine, nothing worth stopping on."
+7,19,1,Anything else before we close?
+7,20,1,"Fine, that is us then."
+8,1,1,Everyone here?
+8,1,2,Good.
+8,2,1,That is fair.
+8,3,1,Someone has to see to this: the router has to be put on a reboot schedule.
+8,4,1,"Nikolai, please reprint the barcodes sheets."
+8,5,1,Will do.
+8,6,1,"Actually, forget the barcodes job, the old ones are fine."
+8,7,1,"The numbers look fine, nothing worth stopping on."
+8,8,1,Should we rent a billboard on the highway?
+8,9,1,"No, that is not happening."
+8,10,1,Understood.
+8,11,1,"Marc, can you price the canopy replacement?"
+8,12,1,"Yes, I will take that."
+8,13,1,"Agreed, let us keep it short today."
+8,14,1,"Janek, can you reorder the badges before we run out by next Tuesday?"
+8,15,1,"Okay, noted."
+8,16,1,I will buy tarps for the outdoor stock by Saturday.
+8,17,1,"Two people are off next week, so we will be short handed."
+8,18,1,"I already returned the floor mats last week, that one is closed."
+8,19,1,Someone has to see to this: the yard floodlight has to be fixed before the clocks change.
+8,20,1,Anything else before we close?
+8,21,1,Same time next week.

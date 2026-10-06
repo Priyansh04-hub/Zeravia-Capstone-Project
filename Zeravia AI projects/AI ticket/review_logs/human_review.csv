@@ -1,0 +1,21 @@
+timestamp,ticket_text,predicted_category,predicted_urgency,confidence,assigned_queue
+2026-10-06T17:31:59.753264,I was charged twice for my subscription and need an immediate refund.,Technical issue,high,0.23550404840653164,General Support
+2026-10-06T17:55:18.392424,I was charged twice for my subscription and need a refund immediately.,Refund request,high,0.24395242098154638,General Support
+2026-10-06T17:55:41.875070,The application keeps crashing whenever I try to open it.,Product inquiry,high,0.24045807776452108,General Support
+2026-10-06T17:56:03.980294,"The application keeps crashing whenever I try to open it.
+",Product inquiry,high,0.24045807776452108,General Support
+2026-10-06T17:56:07.333590,"The application keeps crashing whenever I try to open it.
+",Product inquiry,high,0.24045807776452108,General Support
+2026-10-06T17:56:29.375944,"I cannot log into my account and need help resetting my password.
+",Product inquiry,high,0.23698743244830914,General Support
+2026-10-06T17:56:47.272033,"I want information about upgrading my current product plan..
+",Refund request,high,0.22568864051909168,General Support
+2026-10-06T17:58:45.011181,I was charged twice for my subscription and need an immediate refund.,Technical issue,high,0.23550404840653164,Technical Support
+2026-10-06T17:59:49.705941,I was charged twice for my subscription and need an immediate refund.,Technical issue,high,0.23550404840653164,Technical Support
+2026-10-06T18:00:02.993269,The application keeps crashing whenever I try to open it.,Product inquiry,high,0.24045807776452108,Product Support
+2026-10-06T18:02:14.604990,I was charged twice for my subscription and need an immediate refund.,Product inquiry,high,0.31349929498127904,Product Support
+2026-10-06T18:02:35.233054,The application keeps crashing whenever I try to open it.,Product inquiry,medium,0.3224780547557622,Product Support
+2026-10-06T18:09:53.214282,I was charged twice and need an immediate refund.,billing,high,0.48128959860490284,Billing Support
+2026-10-06T18:10:13.941330,The application keeps crashing whenever I try to open it.,technical,medium,0.4034138088878557,Technical Support
+2026-10-06T18:10:26.291850,I cannot log into my account because I forgot my password.,account,high,0.37399022465191695,Account Support
+2026-10-06T18:10:36.184395,I want information about upgrading my plan.,product,medium,0.501417586560828,Product Support

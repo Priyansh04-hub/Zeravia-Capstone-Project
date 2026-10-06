@@ -1,0 +1,2 @@
+ground_truth_actions,predicted_actions,true_positives,false_positives,false_negatives,precision,recall,f1_score,owner_coverage,deadline_coverage,duplicate_predictions
+40,54,30,24,10,0.5555555555555556,0.75,0.6382978723404256,0.37037037037037035,0.14814814814814814,13

@@ -1,0 +1,672 @@
+[
+  {
+    "meeting_id": 1,
+    "task": "Two people are off next week, so we will be short handed.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Two people are off next week, so we will be short handed.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "I will update the pricing on the kiosk by Wednesday.",
+    "owner": null,
+    "deadline": "by Wednesday",
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "I will update the pricing on the kiosk by Wednesday.",
+    "warnings": [
+      "Missing owner"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "I will take down the summer banner.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will take down the summer banner.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "Nadia, can you call the sign shop about the awning?",
+    "owner": "Nadia",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Nadia, can you call the sign shop about the awning?",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "And the mailbox at the old address still has to be emptied, that one is still open.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "And the mailbox at the old address still has to be emptied, that one is still open.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "Padma, please get the pergola quote moving.",
+    "owner": "Padma",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Padma, please get the pergola quote moving.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 1,
+    "task": "Someone has to see to this: the gate keypad code has to be rotated.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the gate keypad code has to be rotated.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "And the wash bay hose has to be replaced before Friday, that one is still open.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "And the wash bay hose has to be replaced before Friday, that one is still open.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "Nora, please swap the vending supplier.",
+    "owner": "Nora",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Nora, please swap the vending supplier.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "Iris, can you close the payslips export by Thursday?",
+    "owner": "Iris",
+    "deadline": "by Thursday",
+    "status": "pending",
+    "confidence": 1.0,
+    "evidence": "Iris, can you close the payslips export by Thursday?",
+    "warnings": []
+  },
+  {
+    "meeting_id": 2,
+    "task": "Yes, I will take that.",
+    "owner": "Yes",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Yes, I will take that.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "Also, the shelf labels have to be reprinted by the promo start.",
+    "owner": "Also",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Also, the shelf labels have to be reprinted by the promo start.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "task": "I will measure the mezzanine for the new racking.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will measure the mezzanine for the new racking.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "task": "I will order a new shredder by next week.",
+    "owner": null,
+    "deadline": "by next week",
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "I will order a new shredder by next week.",
+    "warnings": [
+      "Missing owner"
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "task": "I will log a ticket for the turnstile fault.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will log a ticket for the turnstile fault.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "task": "Theo, please order a recliner for reception.",
+    "owner": "Theo",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Theo, please order a recliner for reception.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "task": "Someone has to see to this: the parking signage needs repainting.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the parking signage needs repainting.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "task": "Also, the loading dock drain has to be unblocked before the rain.",
+    "owner": "Also",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Also, the loading dock drain has to be unblocked before the rain.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "task": "Yannick, can you return the broken laminator by Friday afternoon?",
+    "owner": "Yannick",
+    "deadline": "by Friday",
+    "status": "pending",
+    "confidence": 1.0,
+    "evidence": "Yannick, can you return the broken laminator by Friday afternoon?",
+    "warnings": []
+  },
+  {
+    "meeting_id": 4,
+    "task": "Two people are off next week, so we will be short handed.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Two people are off next week, so we will be short handed.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "task": "Tomas, please design the autumn flyer.",
+    "owner": "Tomas",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Tomas, please design the autumn flyer.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "task": "I will send the brochure proof to the printer.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will send the brochure proof to the printer.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "Aisha, please fix the skirting in the corridor.",
+    "owner": "Aisha",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Aisha, please fix the skirting in the corridor.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "I will renegotiate the dumpster pickup schedule.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will renegotiate the dumpster pickup schedule.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "And the generator has to be tested under load this month, that one is still open.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "And the generator has to be tested under load this month, that one is still open.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "I will test the handheld scanner firmware by Tuesday morning.",
+    "owner": null,
+    "deadline": "by Tuesday",
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "I will test the handheld scanner firmware by Tuesday morning.",
+    "warnings": [
+      "Missing owner"
+    ]
+  },
+  {
+    "meeting_id": 5,
+    "task": "Yes, I will take that.",
+    "owner": "Yes",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Yes, I will take that.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "Vera, can you replace the thermostat in the back office by Monday?",
+    "owner": "Vera",
+    "deadline": "by Monday",
+    "status": "pending",
+    "confidence": 1.0,
+    "evidence": "Vera, can you replace the thermostat in the back office by Monday?",
+    "warnings": []
+  },
+  {
+    "meeting_id": 6,
+    "task": "Yes, I will take that.",
+    "owner": "Yes",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Yes, I will take that.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "Greta, please replace the intercom handset.",
+    "owner": "Greta",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Greta, please replace the intercom handset.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "And the dock curtain has to be replaced, that one is still open.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "And the dock curtain has to be replaced, that one is still open.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "Someone has to see to this: the firewall licence has to be renewed.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the firewall licence has to be renewed.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 6,
+    "task": "I will cancel the espresso lease by the end of the month.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will cancel the espresso lease by the end of the month.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Someone has to see to this: the freezer needs a defrost cycle.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the freezer needs a defrost cycle.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "I will get the compressor serviced by the 22nd.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will get the compressor serviced by the 22nd.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Two people are off next week, so we will be short handed.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Two people are off next week, so we will be short handed.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Priya, please get the carport resurfaced.",
+    "owner": "Priya",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Priya, please get the carport resurfaced.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Dana, can you book the forklift inspection by Friday?",
+    "owner": "Dana",
+    "deadline": "by Friday",
+    "status": "pending",
+    "confidence": 1.0,
+    "evidence": "Dana, can you book the forklift inspection by Friday?",
+    "warnings": []
+  },
+  {
+    "meeting_id": 7,
+    "task": "I will reassign the lockers keys.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "I will reassign the lockers keys.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 7,
+    "task": "Also, the sprinkler certificate has to be renewed before the audit.",
+    "owner": "Also",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Also, the sprinkler certificate has to be renewed before the audit.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Someone has to see to this: the router has to be put on a reboot schedule.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the router has to be put on a reboot schedule.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Nikolai, please reprint the barcodes sheets.",
+    "owner": "Nikolai",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Nikolai, please reprint the barcodes sheets.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Will do.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Will do.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Yes, I will take that.",
+    "owner": "Yes",
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "Yes, I will take that.",
+    "warnings": [
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "I will buy tarps for the outdoor stock by Saturday.",
+    "owner": null,
+    "deadline": "by Saturday",
+    "status": "pending",
+    "confidence": 0.9,
+    "evidence": "I will buy tarps for the outdoor stock by Saturday.",
+    "warnings": [
+      "Missing owner"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Two people are off next week, so we will be short handed.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Two people are off next week, so we will be short handed.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  },
+  {
+    "meeting_id": 8,
+    "task": "Someone has to see to this: the yard floodlight has to be fixed before the clocks change.",
+    "owner": null,
+    "deadline": null,
+    "status": "pending",
+    "confidence": 0.75,
+    "evidence": "Someone has to see to this: the yard floodlight has to be fixed before the clocks change.",
+    "warnings": [
+      "Missing owner",
+      "Missing deadline"
+    ]
+  }
+]

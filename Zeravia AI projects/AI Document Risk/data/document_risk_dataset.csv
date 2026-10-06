@@ -1,0 +1,601 @@
+document_id,text,risk_category,policy_area
+498,The organization may process personal information without documented consent or legal authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+23,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+198,Employees may access the internal portal for ordinary business activities. This provision concerns access control. No unusual exposure is identified.,low,access control
+373,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+276,The service provider must notify the customer of material operational changes. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+323,The company may suspend access if required documentation is incomplete or outdated. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+13,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns records management. No unusual exposure is identified.,low,records management
+458,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+274,The contract requires additional approval before sensitive business information is shared. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+508,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+532,The company may disclose regulated information without obtaining the required authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+103,The customer may request ordinary support during the subscription period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+165,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+127,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+359,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+386,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+38,Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,records management
+199,The department shall maintain standard records for routine business operations. This provision concerns access control. No unusual exposure is identified.,low,access control
+92,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+271,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+139,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+110,The supplier shall provide routine status updates during the service period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+518,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+231,The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+72,The document contains standard operational language and routine administrative requirements. This provision concerns security. No unusual exposure is identified.,low,security
+82,The customer may request ordinary support during the subscription period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+376,The service provider must notify the customer of material operational changes. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+176,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+70,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+431,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+267,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+77,The agreement describes standard reporting procedures and regular service reviews. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+8,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+28,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+138,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+579,The organization may process personal information without documented consent or legal authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+381,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+300,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+541,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+497,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+1,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+540,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+278,The contract requires additional approval before sensitive business information is shared. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+584,The supplier may access confidential customer information without prior approval. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+353,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+384,The service provider must notify the customer of material operational changes. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+310,The service provider must notify the customer of material operational changes. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+256,The agreement requires periodic review of access permissions and business records. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+567,The organization may process personal information without documented consent or legal authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+9,The document contains standard operational language and routine administrative requirements. This provision concerns access control. No unusual exposure is identified.,low,access control
+411,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+84,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+164,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+422,The contract allows unrestricted access to financial records and confidential business information. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+299,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+423,The contract allows unrestricted access to financial records and confidential business information. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+453,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+151,The customer may request ordinary support during the subscription period. This provision concerns security. No unusual exposure is identified.,low,security
+2,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+246,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+200,Employees may access the internal portal for ordinary business activities. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+6,The department shall maintain standard records for routine business operations. This provision concerns records management. No unusual exposure is identified.,low,records management
+108,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+570,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+194,The agreement describes standard reporting procedures and regular service reviews. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+98,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+51,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+172,Employees may access the internal portal for ordinary business activities. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+324,The agreement requires periodic review of access permissions and business records. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+331,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+447,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+124,The service provider shall follow normal scheduling and communication procedures. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+454,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+128,The department shall maintain standard records for routine business operations. This provision concerns access control. No unusual exposure is identified.,low,access control
+435,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+251,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+545,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+216,The agreement requires periodic review of access permissions and business records. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+442,The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+245,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+207,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+326,The contract requires additional approval before sensitive business information is shared. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+452,The organization may process personal information without documented consent or legal authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+327,The company may suspend access if required documentation is incomplete or outdated. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+229,Records must be retained for the required period and made available for audit. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+507,The company may disclose regulated information without obtaining the required authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+106,Employees may access the internal portal for ordinary business activities. This provision concerns access control. No unusual exposure is identified.,low,access control
+563,The company may disclose regulated information without obtaining the required authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+240,The contract requires additional approval before sensitive business information is shared. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+7,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+399,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+18,The supplier shall provide routine status updates during the service period. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+281,The agreement requires periodic review of access permissions and business records. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+511,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+530,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+501,The company may disclose regulated information without obtaining the required authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+520,The company may disclose regulated information without obtaining the required authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+279,The contract requires additional approval before sensitive business information is shared. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+597,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+120,The service provider shall follow normal scheduling and communication procedures. This provision concerns records management. No unusual exposure is identified.,low,records management
+451,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+60,Employees may access the internal portal for ordinary business activities. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+363,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+478,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+225,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+479,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+184,The department shall maintain standard records for routine business operations. This provision concerns records management. No unusual exposure is identified.,low,records management
+107,The service provider shall follow normal scheduling and communication procedures. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+61,The department shall maintain standard records for routine business operations. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+496,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+104,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+133,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns security. No unusual exposure is identified.,low,security
+123,The agreement describes standard reporting procedures and regular service reviews. This provision concerns security. No unusual exposure is identified.,low,security
+69,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+30,The supplier shall provide routine status updates during the service period. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+145,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+425,The contract allows unrestricted access to financial records and confidential business information. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+197,Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,records management
+201,Records must be retained for the required period and made available for audit. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+322,The company may suspend access if required documentation is incomplete or outdated. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+351,The contract requires additional approval before sensitive business information is shared. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+354,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+464,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+417,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+136,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+529,The company may disclose regulated information without obtaining the required authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+275,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+12,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+265,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+43,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+173,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+369,The organization must review third-party access and document exceptions to policy. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+495,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+313,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+188,The document contains standard operational language and routine administrative requirements. This provision concerns records management. No unusual exposure is identified.,low,records management
+387,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+438,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+237,The organization must review third-party access and document exceptions to policy. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+210,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+542,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+277,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+594,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+548,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+396,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+58,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+471,The company may disclose regulated information without obtaining the required authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+443,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+555,The organization may process personal information without documented consent or legal authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+297,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+406,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+163,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+468,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+5,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+401,The company may disclose regulated information without obtaining the required authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+335,The agreement requires periodic review of access permissions and business records. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+398,The agreement requires periodic review of access permissions and business records. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+266,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+202,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+33,The customer may request ordinary support during the subscription period. This provision concerns security. No unusual exposure is identified.,low,security
+185,The document contains standard operational language and routine administrative requirements. This provision concerns records management. No unusual exposure is identified.,low,records management
+97,The document contains standard operational language and routine administrative requirements. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+144,The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,access control
+178,The document contains standard operational language and routine administrative requirements. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+457,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+547,The organization may process personal information without documented consent or legal authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+599,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+101,The document contains standard operational language and routine administrative requirements. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+517,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+349,The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+328,The agreement requires periodic review of access permissions and business records. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+320,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+170,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+150,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+21,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+187,Employees may access the internal portal for ordinary business activities. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+365,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+329,The contract requires additional approval before sensitive business information is shared. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+543,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+65,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns records management. No unusual exposure is identified.,low,records management
+196,The department shall maintain standard records for routine business operations. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+234,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+482,The contract allows unrestricted access to financial records and confidential business information. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+428,The supplier may access confidential customer information without prior approval. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+25,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns records management. No unusual exposure is identified.,low,records management
+85,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+553,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+86,The service provider shall follow normal scheduling and communication procedures. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+209,The service provider must notify the customer of material operational changes. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+358,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+415,The supplier may access confidential customer information without prior approval. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+154,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+289,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+467,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+366,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+280,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+395,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+96,The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,access control
+582,The organization may process personal information without documented consent or legal authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+292,The organization must review third-party access and document exceptions to policy. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+157,The customer may request ordinary support during the subscription period. This provision concerns security. No unusual exposure is identified.,low,security
+564,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+590,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+421,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+459,The supplier may access confidential customer information without prior approval. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+321,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+64,The service provider shall follow normal scheduling and communication procedures. This provision concerns records management. No unusual exposure is identified.,low,records management
+228,Records must be retained for the required period and made available for audit. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+536,The supplier may access confidential customer information without prior approval. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+259,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+235,The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+318,The agreement requires periodic review of access permissions and business records. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+183,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+515,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+261,The company may suspend access if required documentation is incomplete or outdated. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+375,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+258,The service provider must notify the customer of material operational changes. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+392,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+293,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+576,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+122,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+338,Records must be retained for the required period and made available for audit. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+523,The supplier may access confidential customer information without prior approval. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+544,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+303,The company may suspend access if required documentation is incomplete or outdated. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+147,The supplier shall provide routine status updates during the service period. This provision concerns security. No unusual exposure is identified.,low,security
+305,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+248,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+350,The service provider must notify the customer of material operational changes. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+533,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+378,The agreement requires periodic review of access permissions and business records. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+142,Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,records management
+347,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+364,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+99,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+252,The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+153,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+504,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+345,The company may suspend access if required documentation is incomplete or outdated. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+486,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+472,The supplier may access confidential customer information without prior approval. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+264,The company may suspend access if required documentation is incomplete or outdated. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+20,The customer may request ordinary support during the subscription period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+400,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+361,The service provider must notify the customer of material operational changes. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+95,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+254,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+316,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+475,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+119,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+489,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+19,The department shall maintain standard records for routine business operations. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+519,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+268,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+410,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+521,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+141,The service provider shall follow normal scheduling and communication procedures. This provision concerns records management. No unusual exposure is identified.,low,records management
+156,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+362,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+241,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+477,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+226,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+78,The customer may request ordinary support during the subscription period. This provision concerns access control. No unusual exposure is identified.,low,access control
+162,The customer may request ordinary support during the subscription period. This provision concerns access control. No unusual exposure is identified.,low,access control
+166,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns records management. No unusual exposure is identified.,low,records management
+230,The agreement requires periodic review of access permissions and business records. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+238,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+253,The service provider must notify the customer of material operational changes. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+91,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+39,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+481,The company may disclose regulated information without obtaining the required authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+89,Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,records management
+512,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+132,The document contains standard operational language and routine administrative requirements. This provision concerns security. No unusual exposure is identified.,low,security
+75,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+53,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+121,The department shall maintain standard records for routine business operations. This provision concerns access control. No unusual exposure is identified.,low,access control
+524,The organization may process personal information without documented consent or legal authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+403,The contract allows unrestricted access to financial records and confidential business information. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+552,The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+100,The supplier shall provide routine status updates during the service period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+566,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+389,The contract requires additional approval before sensitive business information is shared. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+591,The company may disclose regulated information without obtaining the required authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+262,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+314,The agreement requires periodic review of access permissions and business records. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+87,Employees may access the internal portal for ordinary business activities. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+171,The supplier shall provide routine status updates during the service period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+114,The document contains standard operational language and routine administrative requirements. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+404,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+405,The contract allows unrestricted access to financial records and confidential business information. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+343,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+41,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns security. No unusual exposure is identified.,low,security
+269,Records must be retained for the required period and made available for audit. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+397,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+298,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+125,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+55,The department shall maintain standard records for routine business operations. This provision concerns records management. No unusual exposure is identified.,low,records management
+593,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+46,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns security. No unusual exposure is identified.,low,security
+186,The supplier shall provide routine status updates during the service period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+419,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+88,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+469,The supplier may access confidential customer information without prior approval. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+11,The department shall maintain standard records for routine business operations. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+535,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+357,Records must be retained for the required period and made available for audit. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+506,The company may disclose regulated information without obtaining the required authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+214,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+208,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+427,The company may disclose regulated information without obtaining the required authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+493,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+295,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+485,The organization may process personal information without documented consent or legal authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+40,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+236,The company may suspend access if required documentation is incomplete or outdated. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+10,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+224,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+580,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+204,The agreement requires periodic review of access permissions and business records. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+37,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+595,The company may disclose regulated information without obtaining the required authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+600,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+562,The organization may process personal information without documented consent or legal authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+118,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+273,The contract requires additional approval before sensitive business information is shared. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+585,The organization may process personal information without documented consent or legal authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+583,The contract allows unrestricted access to financial records and confidential business information. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+90,The department shall maintain standard records for routine business operations. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+355,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+255,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+340,The organization must review third-party access and document exceptions to policy. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+62,The supplier shall provide routine status updates during the service period. This provision concerns records management. No unusual exposure is identified.,low,records management
+168,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+565,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+483,The company may disclose regulated information without obtaining the required authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+574,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+513,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+155,Employees may access the internal portal for ordinary business activities. This provision concerns security. No unusual exposure is identified.,low,security
+105,The service provider shall follow normal scheduling and communication procedures. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+402,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+29,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+307,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+203,The company may suspend access if required documentation is incomplete or outdated. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+560,The supplier may access confidential customer information without prior approval. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+24,The supplier shall provide routine status updates during the service period. This provision concerns security. No unusual exposure is identified.,low,security
+158,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+578,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+270,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+577,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+304,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+480,The contract allows unrestricted access to financial records and confidential business information. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+348,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+146,The agreement describes standard reporting procedures and regular service reviews. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+57,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+499,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+177,The service provider shall follow normal scheduling and communication procedures. This provision concerns records management. No unusual exposure is identified.,low,records management
+430,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+263,The organization must review third-party access and document exceptions to policy. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+388,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+589,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+490,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+556,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+311,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+249,The agreement requires periodic review of access permissions and business records. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+581,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+339,Records must be retained for the required period and made available for audit. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+537,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+587,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+42,The agreement describes standard reporting procedures and regular service reviews. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+418,The supplier may access confidential customer information without prior approval. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+26,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+317,The service provider must notify the customer of material operational changes. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+390,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+440,The supplier may access confidential customer information without prior approval. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+449,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+474,The contract allows unrestricted access to financial records and confidential business information. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+306,The organization must review third-party access and document exceptions to policy. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+291,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+167,The document contains standard operational language and routine administrative requirements. This provision concerns records management. No unusual exposure is identified.,low,records management
+505,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+446,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+190,Employees may access the internal portal for ordinary business activities. This provision concerns security. No unusual exposure is identified.,low,security
+81,The document contains standard operational language and routine administrative requirements. This provision concerns security. No unusual exposure is identified.,low,security
+175,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+492,The organization may process personal information without documented consent or legal authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+215,Records must be retained for the required period and made available for audit. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+193,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+500,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+551,The supplier may access confidential customer information without prior approval. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+383,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+476,The company may disclose regulated information without obtaining the required authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+557,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+325,The service provider must notify the customer of material operational changes. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+598,The company may disclose regulated information without obtaining the required authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+73,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+36,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+206,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+413,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+290,The organization must review third-party access and document exceptions to policy. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+74,Employees may access the internal portal for ordinary business activities. This provision concerns records management. No unusual exposure is identified.,low,records management
+409,The supplier may access confidential customer information without prior approval. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+4,The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,access control
+436,The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+494,The organization may process personal information without documented consent or legal authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+159,The supplier shall provide routine status updates during the service period. This provision concerns security. No unusual exposure is identified.,low,security
+429,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+510,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+140,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+93,The customer may request ordinary support during the subscription period. This provision concerns security. No unusual exposure is identified.,low,security
+15,The department shall maintain standard records for routine business operations. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+137,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+356,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+439,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+312,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+14,Employees may access the internal portal for ordinary business activities. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+286,The organization must review third-party access and document exceptions to policy. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+522,The supplier may access confidential customer information without prior approval. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+346,The contract requires additional approval before sensitive business information is shared. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+315,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+319,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+420,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+393,The contract requires additional approval before sensitive business information is shared. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+461,The supplier may access confidential customer information without prior approval. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+220,The organization must review third-party access and document exceptions to policy. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+414,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+116,The department shall maintain standard records for routine business operations. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+294,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+143,The supplier shall provide routine status updates during the service period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+538,The company may disclose regulated information without obtaining the required authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+509,The organization may process personal information without documented consent or legal authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+189,Employees may access the internal portal for ordinary business activities. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+514,The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+433,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+180,The document contains standard operational language and routine administrative requirements. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+56,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+434,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+115,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+247,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+569,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+80,The customer may request ordinary support during the subscription period. This provision concerns records management. No unusual exposure is identified.,low,records management
+109,The agreement describes standard reporting procedures and regular service reviews. This provision concerns security. No unusual exposure is identified.,low,security
+260,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+296,The service provider must notify the customer of material operational changes. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+550,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+181,The customer may request ordinary support during the subscription period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+160,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+308,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+148,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+559,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+502,The supplier may access confidential customer information without prior approval. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+445,The company may disclose regulated information without obtaining the required authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+217,The company may suspend access if required documentation is incomplete or outdated. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+385,The company may suspend access if required documentation is incomplete or outdated. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+484,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+448,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+182,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns access control. No unusual exposure is identified.,low,access control
+575,The organization may process personal information without documented consent or legal authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+531,The contract allows unrestricted access to financial records and confidential business information. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+344,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+169,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+462,The organization may process personal information without documented consent or legal authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+288,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+301,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+31,The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,access control
+285,The service provider must notify the customer of material operational changes. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+67,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+416,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+191,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+379,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+382,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+50,The service provider shall follow normal scheduling and communication procedures. This provision concerns security. No unusual exposure is identified.,low,security
+571,The organization may process personal information without documented consent or legal authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+48,The customer may request ordinary support during the subscription period. This provision concerns records management. No unusual exposure is identified.,low,records management
+44,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+426,The company may disclose regulated information without obtaining the required authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+47,The agreement describes standard reporting procedures and regular service reviews. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+35,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+243,The organization must review third-party access and document exceptions to policy. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+473,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+352,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+79,The document contains standard operational language and routine administrative requirements. This provision concerns access control. No unusual exposure is identified.,low,access control
+192,The document contains standard operational language and routine administrative requirements. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+131,Employees may access the internal portal for ordinary business activities. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+341,The agreement requires periodic review of access permissions and business records. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+487,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+219,The agreement requires periodic review of access permissions and business records. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+161,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns records management. No unusual exposure is identified.,low,records management
+49,The service provider shall follow normal scheduling and communication procedures. This provision concerns access control. No unusual exposure is identified.,low,access control
+374,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+572,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+205,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+233,The organization must review third-party access and document exceptions to policy. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+424,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+174,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+212,The agreement requires periodic review of access permissions and business records. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+546,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+525,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+232,The contract requires additional approval before sensitive business information is shared. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+221,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+527,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+444,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+370,The service provider must notify the customer of material operational changes. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+586,The contract allows unrestricted access to financial records and confidential business information. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+394,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+450,The organization may process personal information without documented consent or legal authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+334,The contract requires additional approval before sensitive business information is shared. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+336,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+528,The company may disclose regulated information without obtaining the required authorization. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+59,Employees may access the internal portal for ordinary business activities. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+360,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+407,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+592,The supplier may access confidential customer information without prior approval. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+441,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+465,The contract allows unrestricted access to financial records and confidential business information. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+302,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+391,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+333,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+282,The company may suspend access if required documentation is incomplete or outdated. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+549,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+68,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+573,The company may disclose regulated information without obtaining the required authorization. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+330,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+83,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+76,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+596,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+503,The organization may process personal information without documented consent or legal authorization. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+111,The department shall maintain standard records for routine business operations. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+437,The organization may process personal information without documented consent or legal authorization. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+412,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+491,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+588,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+32,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns security. No unusual exposure is identified.,low,security
+470,The contract allows unrestricted access to financial records and confidential business information. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+309,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+534,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+45,The customer may request ordinary support during the subscription period. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+227,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+516,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+463,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+112,The department shall maintain standard records for routine business operations. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+526,The contract allows unrestricted access to financial records and confidential business information. This provision concerns access control. Manual compliance review is recommended before approval.,high,access control
+371,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+460,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+488,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+66,The document contains standard operational language and routine administrative requirements. This provision concerns records management. No unusual exposure is identified.,low,records management
+117,The customer may request ordinary support during the subscription period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+539,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns data privacy. Manual compliance review is recommended before approval.,high,data privacy
+432,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+130,The department shall maintain standard records for routine business operations. This provision concerns access control. No unusual exposure is identified.,low,access control
+54,The department shall maintain standard records for routine business operations. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+272,The supplier shall maintain security procedures and report significant incidents promptly. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+561,The supplier is not required to report serious security incidents within a defined timeframe. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+17,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+332,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+244,Records must be retained for the required period and made available for audit. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+367,The supplier must maintain appropriate records and provide compliance reports upon request. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+16,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+135,The service provider shall follow normal scheduling and communication procedures. This provision concerns security. No unusual exposure is identified.,low,security
+27,The agreement describes standard reporting procedures and regular service reviews. This provision concerns records management. No unusual exposure is identified.,low,records management
+113,The service provider shall follow normal scheduling and communication procedures. This provision concerns security. No unusual exposure is identified.,low,security
+179,The department shall maintain standard records for routine business operations. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+257,The organization must review third-party access and document exceptions to policy. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+554,The contract allows unrestricted access to financial records and confidential business information. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+134,Routine invoices shall be submitted according to the company's normal billing process. This provision concerns security. No unusual exposure is identified.,low,security
+149,The document contains standard operational language and routine administrative requirements. This provision concerns records management. No unusual exposure is identified.,low,records management
+284,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+3,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+152,The agreement describes standard reporting procedures and regular service reviews. This provision concerns financial compliance. No unusual exposure is identified.,low,financial compliance
+337,The organization must review third-party access and document exceptions to policy. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+239,The company may suspend access if required documentation is incomplete or outdated. This provision concerns vendor management. Additional compliance review may be appropriate.,medium,vendor management
+222,The agreement requires periodic review of access permissions and business records. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+213,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+568,The provider may retain sensitive customer data indefinitely without a defined deletion period. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+71,Employees may access the internal portal for ordinary business activities. This provision concerns security. No unusual exposure is identified.,low,security
+211,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+129,The service provider shall follow normal scheduling and communication procedures. This provision concerns security. No unusual exposure is identified.,low,security
+250,Records must be retained for the required period and made available for audit. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+342,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+52,The agreement describes standard reporting procedures and regular service reviews. This provision concerns access control. No unusual exposure is identified.,low,access control
+22,The service provider shall follow normal scheduling and communication procedures. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+218,The contract requires additional approval before sensitive business information is shared. This provision concerns records management. Additional compliance review may be appropriate.,medium,records management
+94,The service provider shall follow normal scheduling and communication procedures. This provision concerns security. No unusual exposure is identified.,low,security
+466,The company may disclose regulated information without obtaining the required authorization. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+126,The document contains standard operational language and routine administrative requirements. This provision concerns data privacy. No unusual exposure is identified.,low,data privacy
+195,The supplier shall provide routine status updates during the service period. This provision concerns vendor management. No unusual exposure is identified.,low,vendor management
+283,The organization must review third-party access and document exceptions to policy. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+408,The agreement permits security controls to be bypassed when operationally convenient. This provision concerns financial compliance. Manual compliance review is recommended before approval.,high,financial compliance
+63,The department shall maintain standard records for routine business operations. This provision concerns security. No unusual exposure is identified.,low,security
+368,The contract requires additional approval before sensitive business information is shared. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+558,The company may disclose regulated information without obtaining the required authorization. This provision concerns vendor management. Manual compliance review is recommended before approval.,high,vendor management
+377,The service provider must notify the customer of material operational changes. This provision concerns data privacy. Additional compliance review may be appropriate.,medium,data privacy
+102,The supplier shall provide routine status updates during the service period. This provision concerns access control. No unusual exposure is identified.,low,access control
+372,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+242,The contract requires additional approval before sensitive business information is shared. This provision concerns financial compliance. Additional compliance review may be appropriate.,medium,financial compliance
+456,The agreement permits transfer of sensitive personal data to an external third party. This provision concerns security. Manual compliance review is recommended before approval.,high,security
+455,The supplier may access confidential customer information without prior approval. This provision concerns records management. Manual compliance review is recommended before approval.,high,records management
+223,The service provider must notify the customer of material operational changes. This provision concerns security. Additional compliance review may be appropriate.,medium,security
+380,The service provider must notify the customer of material operational changes. This provision concerns access control. Additional compliance review may be appropriate.,medium,access control
+34,The customer may request ordinary support during the subscription period. This provision concerns access control. No unusual exposure is identified.,low,access control
+287,Records must be retained for the required period and made available for audit. This provision concerns security. Additional compliance review may be appropriate.,medium,security
